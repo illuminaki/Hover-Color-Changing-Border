@@ -9,10 +9,12 @@ Para utilizar este efecto en tu propio proyecto o simplemente probarlo, sigue es
 1. Clona el repositorio:
 ```bash
 git clone git@github.com:illuminaki/Hover-Color-Changing-Border.git
-Abre el archivo hover/hover/border-color-hover.html en tu navegador para ver el efecto en acción.
-Uso 🚀
-Puedes integrar este efecto en tu proyecto copiando los archivos necesarios o incorporando el código directamente en tu HTML y CSS. Asegúrate de actualizar las rutas de los archivos en el código para que coincidan con la estructura de tu proyecto.
 ```
+2. Abre el archivo hover/hover/border-color-hover.html en tu navegador para ver el efecto en acción.
+
+## Uso 🚀
+Puedes integrar este efecto en tu proyecto copiando los archivos necesarios o incorporando el código directamente en tu HTML y CSS. Asegúrate de actualizar las rutas de los archivos en el código para que coincidan con la estructura de tu proyecto.
+
 
 ## Tecnologías Utilizadas 💻
 - HTML5
